@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Danger
+  - Transformer
+  - Attack
+  - Stage Exit
+  - HoveringLight
+  - SoftWall
+  - Circle1Attack
+  - Circle2Attack
+  - Circle3Attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player Light
+    uniqueID: 556604647
+    locked: 0
+  - name: Exits
+    uniqueID: 3220024887
+    locked: 0
+  - name: Red
+    uniqueID: 273476513
+    locked: 0
+  - name: Transformer
+    uniqueID: 759942849
+    locked: 0
+  - name: Player
+    uniqueID: 538501481
+    locked: 0
+  - name: Walls
+    uniqueID: 2693978283
+    locked: 0
